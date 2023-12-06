@@ -1,7 +1,0 @@
------------------------para fazer---------------------
-*   fazer a lista de paginas de routes no servicework.js
-*   fazer o mafist.json 
-*   definir a pagina inicial no 
-*   
------------------------já feitas----------------------
-V   postar o sistema em react ominimoo para começar desenvolver

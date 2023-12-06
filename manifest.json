@@ -1,0 +1,19 @@
+{
+    "name": "Recepcionista CIASC",
+    "short_name": "CIASC",
+    "icons": [
+        {
+            "src": "images/favicon.png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/favicon.png",
+            "sizes": "512x512"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#151C48",
+    "theme_color": "#1a1535"
+}
